@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./breviariumroman05brevgoog/breviariumroman05brevgoog_0006.png"; bbox 0 0 2074 3840; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 175 1439 1030 1564">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 175 1439 1030 1564">
+     <span class='ocr_line' id='line_1_1' title="bbox 175 1439 1030 1484; baseline -0.001 -2"><span class='ocrx_word' id='word_1_1' title='bbox 175 1441 289 1484; x_wconf 64' lang='lat' dir='ltr'><strong>mlius.</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 307 1439 339 1480; x_wconf 69' lang='lat' dir='ltr'>u</span> <span class='ocrx_word' id='word_1_3' title='bbox 358 1439 541 1480; x_wconf 68' lang='lat' dir='ltr'>mounu‘uzo</span> <span class='ocrx_word' id='word_1_4' title='bbox 554 1439 749 1478; x_wconf 68' lang='lat' dir='ltr'><strong>zccmusnco</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 764 1439 934 1479; x_wconf 70' lang='lat' dir='ltr'>rotsslzmtt</span> <span class='ocrx_word' id='word_1_6' title='bbox 944 1442 1030 1481; x_wconf 64' lang='lat' dir='ltr'>nrm</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 447 1515 789 1564; baseline -0.006 -14"><span class='ocrx_word' id='word_1_7' title='bbox 447 1515 475 1552; x_wconf 73' lang='grc' dir='ltr'>ιὶι</span> <span class='ocrx_word' id='word_1_8' title='bbox 484 1515 539 1564; x_wconf 66' lang='lat' dir='ltr'>vulp</span> <span class='ocrx_word' id='word_1_9' title='bbox 548 1515 597 1552; x_wconf 74' lang='lat' dir='ltr'>dim</span> <span class='ocrx_word' id='word_1_10' title='bbox 607 1515 630 1552; x_wconf 68' lang='grc' dir='ltr'>δε</span> <span class='ocrx_word' id='word_1_11' title='bbox 646 1515 725 1556; x_wconf 60' lang='grc' dir='ltr'>Βόκκι,</span> <span class='ocrx_word' id='word_1_12' title='bbox 739 1517 761 1550; x_wconf 86' lang='grc' dir='ltr'>ι·</span> <span class='ocrx_word' id='word_1_13' title='bbox 775 1531 789 1550; x_wconf 78' lang='grc' dir='ltr'>ι.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 0 0 1042 3840">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 0 0 1042 3840">
+     <span class='ocr_line' id='line_1_3' title="bbox 0 0 1042 3840; baseline 0 0"><span class='ocrx_word' id='word_1_14' title='bbox 0 0 1042 3840; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
